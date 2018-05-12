@@ -1,10 +1,16 @@
 _repo: Raymond-or-Life-and-Death-With-examples-of-the-evidence-for-survival-of-memory-and-affection-__51086
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51086-h/images/cover.jpg
 creator:
   author:
     agent_name: Lodge, Sir Oliver J.
     gutenberg_agent_id: '46235'
     url: http://www.gutenberg.org/2009/agents/46235
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51086#Raymond-or-Life-and-Death-With-examples-of-the-evidence-for-survival-of-memory-and-affection-_
 gutenberg_issued: '2016-01-30'
 gutenberg_type: Text
 identifiers:
